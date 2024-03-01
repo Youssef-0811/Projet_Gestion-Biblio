@@ -1,0 +1,148 @@
+
+.top{
+    background-color:#ffffffee;
+
+}
+.top h4{
+  font-size: x-large;
+}
+body {
+    background-color:rgb(255, 255, 255);
+   
+  }
+  .contenair{
+    height: 250px;
+    width: auto;
+
+background-image: url(images/img.jpg);
+background-repeat: no-repeat;
+background-size:  cover;
+background-position: center;
+
+ 
+
+  }
+
+  .contenair h4{
+    font-size: x-large;
+    color: #ffffff;
+  }
+.contenair h4 {
+  background-color: rgb(76, 44, 0,0.99);
+    margin-top: 50px;
+    margin-right:30cm;
+    padding: 15px;
+    border-radius: 40px 999rem 999rem 40px;
+
+  }
+  .posi{
+    margin-top: 65px;
+  }
+  .items{
+   margin-right:18cm;
+    padding: .4rem 0;
+    background-color: rgb(76, 44, 0,0.99);
+    border-radius: 40px 999rem 999rem 40px;
+   
+  
+      
+  }
+  
+.contenair li {
+
+display: inline-block;
+margin-right: 22px;
+padding: 10px 15px;
+
+
+
+}
+.contenair li a{
+
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+* {
+    /* Change your font family */
+    font-family: sans-serif;
+}
+
+.content-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    min-width: 400px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+}
+
+.content-table thead tr {
+    background-color: #754000;
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+}
+
+.content-table th,
+.content-table td {
+    padding: 12px 15px;
+}
+
+.content-table tbody tr {
+    border-bottom: 1px solid #d8d8d8;
+}
+
+.content-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.content-table tbody tr:last-of-type {
+    border-bottom: 2px solid  #754000;
+}
+
+.content-table tbody tr.active-row {
+    font-weight: bold;
+    color:  #754000;
+}
+
+
+
+
+
+
+
+.themes {
+    border: 2px solid;
+    float:left;
+    
+    background-color: rgb(255, 255, 255);
+    }
+.themes h2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+    
+}
+
+.contenu {
+    margin-left:245px;
+    background-color: #ffffff;
+}
+
+
+
+.footer{
+    background-color: #121111;
+        width:600px;
+        height:50px;
+    
+
+}
+
+
+
+
+
